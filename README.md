@@ -12,7 +12,7 @@
 <p>Reverse: Reverte a ordem</p>
 <p>from pprint import pprint: Organizar em fileira</p>
 <p> break: Quebra o laço de repetição</p>
-<p>while True:  #While só iniciado se a condição for verdadeira</p>
+<p>while True: Só iniciado se a condição for verdadeira</p>
 <p>for i in range: i: Interavel</p>
 <p>print("\n"): Pula linha</p>
 <p>Range: Gera uma sequência de números inteiros</p>
