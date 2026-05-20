@@ -130,8 +130,14 @@ f) lista em ordem decrescente.
 <hr>
 <div align = "justify">
 <h2> Exercicio 9 </h2>
-<p>Dada a tabela em anexo , crie um dicionário que a represente. 
-***A tabela esta anexada como imagem aqui na atividade***</p>
+<p>Dada a tabela em anexo , crie um dicionário que a represente.</p>
+  
+  <figure>
+    <figcaption>
+      <img width="314" height="175" alt="image" src="https://github.com/user-attachments/assets/21451391-e7f9-4857-afdb-29b8b5208d5f" />
+    </figcaption>
+  </figure>
+
 <figure>
   <figcaption>
 <img width="1461" height="253" alt="Captura de tela 2026-05-19 165049" src="https://github.com/user-attachments/assets/aed6ef25-00df-4ab2-86d6-c4a2114c24af" />
