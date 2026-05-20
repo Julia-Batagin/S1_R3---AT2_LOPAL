@@ -6,6 +6,20 @@
 
 <hr>
 <div align = "justify">
+<h2>Comandos aprendidos, usados nesta ativadade e suas funções💪</h2>
+<p>Append: Acrecentar (adiciona um elemento no final da lista)</p>
+<p>Sort: Organizar</p>
+<p>Reverse: Reverte a ordem</p>
+<p>from pprint import pprint: Organizar em fileira</p>
+<p> break: Quebra o laço de repetição</p>
+<p>while True:  #While só iniciado se a condição for verdadeira</p>
+<p>for i in range: i: Interavel</p>
+<p>print("\n"): Pula linha</p>
+<p>Range: Gera uma sequência de números inteiros</p>
+<p>While len: Executa um bloco de código repetidas vezes até que uma lista, string ou dicionário atinja um tamanho específico.</p>
+  
+<hr>
+<div align = "justify">
 <h2>Exercicio 1</h2>
 <p>Faça um algoritmo usando o for para mostrar os números pares e impares de 0 a 100.</p>
 </div>
