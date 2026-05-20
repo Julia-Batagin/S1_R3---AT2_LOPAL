@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 
 <div align = "center">
-  <h1>📣Atividades feitos no google colab📣</h1>
+  <h1>📣Atividades feitas no google colab📣</h1>
 </div>
 
 <hr>
